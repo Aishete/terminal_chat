@@ -39,4 +39,13 @@ This method creates an alias, which is a shortcut within your shell.
   source ~/.bashrc 
   ```
 
-Now, typing `ai` will execute `ai.sh`, but only within the shell session where you defined the alias.  
+Now, typing `ai` will execute `ai.sh`, but only within the shell session where you defined the alias.
+
+## TODO
+
+- [x] use bash for the sake of learning
+- [x] able to add and use api key to interact with ai in clould
+- [ ] able to interact with terminal such as create file etc
+- [ ] able store some ref memory 
+- [ ] able to use local ai model as a brain
+
