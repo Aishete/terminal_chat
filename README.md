@@ -32,9 +32,7 @@ This method creates an alias, which is a shortcut within your shell.
    ```
 
 3. **Source the configuration file:** Save the file and then source it to apply the changes:  
-```bash
 
-  ```
   ```bash
   source ~/.bashrc 
   ```
